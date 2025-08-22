@@ -3,7 +3,6 @@
 //   regardless of the block in which it was declared.
 
 //   Re-declaration: You can re-declare a variable with var within the same scope without any errors.
-
 const app1 = () => {
     if (true) {
         var a = 20;
